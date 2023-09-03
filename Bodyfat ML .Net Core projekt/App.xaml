@@ -1,0 +1,9 @@
+﻿<Application x:Class="Bodyfat_ML_.Net_Core_projekt.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Bodyfat_ML_.Net_Core_projekt"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

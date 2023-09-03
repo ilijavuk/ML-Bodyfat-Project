@@ -1,0 +1,140 @@
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.exe
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.deps.json
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.json
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Mkl.Components.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklImports.so
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklImports.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklImports.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CopyComplete
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.genruntimeconfig.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.exe
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.deps.json
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.json
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Mkl.Components.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklImports.so
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklImports.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklImports.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CopyComplete
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.genruntimeconfig.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.exe
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.deps.json
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.json
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Microsoft.ML.Mkl.Components.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklImports.so
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklImports.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklImports.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\bin\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.AssemblyInfo.cs
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.csproj.CopyComplete
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.pdb
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.ConsoleApp\obj\x64\Debug\netcoreapp3.1\Bodyfat ML projektML.ConsoleApp.genruntimeconfig.cache

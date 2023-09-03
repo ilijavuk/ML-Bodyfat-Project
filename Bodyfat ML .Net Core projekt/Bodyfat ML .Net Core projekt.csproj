@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Bodyfat_ML_.Net_Core_projekt</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bodyfat ML projektML.Model\Bodyfat ML projektML.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Bodyfat ML projektML.Model">
+      <HintPath>..\Bodyfat ML projektML.Model\bin\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

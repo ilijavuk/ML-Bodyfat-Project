@@ -1,0 +1,14 @@
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.csproj.AssemblyReference.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat_ML_projekt.Form1.resources
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat_ML_projekt.Properties.Resources.resources
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.csproj.GenerateResource.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.csproj.CoreCompileInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\MLModel.zip
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\Bodyfat ML projekt.exe.config
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\Bodyfat ML projekt.exe
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\Bodyfat ML projekt.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\Bodyfat ML projektML.Model.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\Debug\Bodyfat ML projektML.Model.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.csproj.CopyComplete
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.exe
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\Debug\Bodyfat ML projekt.pdb

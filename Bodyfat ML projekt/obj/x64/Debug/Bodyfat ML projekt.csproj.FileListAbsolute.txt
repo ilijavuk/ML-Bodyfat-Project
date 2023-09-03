@@ -1,0 +1,51 @@
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\MLModel.zip
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\LdaNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\CpuMathNative.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Bodyfat ML projekt.exe.config
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Bodyfat ML projekt.exe
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Bodyfat ML projekt.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Bodyfat ML projektML.Model.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Core.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Data.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.DataView.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.KMeansClustering.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.PCA.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.StandardTrainers.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Transforms.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Buffers.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.CodeDom.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Memory.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Bodyfat ML projektML.Model.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Core.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Data.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.DataView.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.KMeansClustering.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.PCA.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.StandardTrainers.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Microsoft.ML.Transforms.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Buffers.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Memory.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.csproj.AssemblyReference.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat_ML_projekt.Form1.resources
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat_ML_projekt.Properties.Resources.resources
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.csproj.GenerateResource.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.csproj.CoreCompileInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.csproj.CopyComplete
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.exe
+C:\Users\Luka-PC\source\repos\Bodyfat ML projekt\obj\x64\Debug\Bodyfat ML projekt.pdb

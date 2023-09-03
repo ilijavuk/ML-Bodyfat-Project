@@ -1,0 +1,31 @@
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.deps.json
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.csproj.AssemblyReference.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfoInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfo.cs
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Luka-PC\source\repos\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.deps.json
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfoInputs.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfo.cs
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\INTS projekt\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.csproj.AssemblyReference.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\MLModel.zip
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.deps.json
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\bin\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfoInputs.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.AssemblyInfo.cs
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.dll
+C:\Users\Ilija Vuk\Desktop\new ints project\Bodyfat ML projektML.Model\obj\x64\Debug\netstandard2.0\Bodyfat ML projektML.Model.pdb
